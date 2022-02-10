@@ -2,11 +2,11 @@
   <h1>Code blocks</h1>
 </div>
 
-# Table of Contents
+### Table of Contents
 1. [HTML](#html)
 
 
-### HTML  <a name="html">
+#### HTML  <a name="html">
 
 ```html
 <div id="webtula">
