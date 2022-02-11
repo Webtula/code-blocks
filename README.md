@@ -23,4 +23,4 @@
 #webtula p {color: grey;font-size: 0.7rem;}
 #webtula p a {text-decoration: none; color: var(--webtula-clr);}
 ```
-var(--webtula-clr) can be found in our reset.css stylesheet at [cdn.webtula.com](!https://cdn.webtula.com/stylesheets/reset.css)
+var(--webtula-clr) can be found in our reset.css stylesheet at [cdn.webtula.com](https://cdn.webtula.com/stylesheets/reset.css)
